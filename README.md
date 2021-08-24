@@ -1,6 +1,6 @@
 # College management system using mysql in python
 ---
-![](https://github.com/Rajat-zee/py-mysql/tree/main/image/ea.gif)
+![alt](https://github.com/Rajat-zee/py-mysql/tree/main/image/ea.gif)
 ---
 ## Description
 
